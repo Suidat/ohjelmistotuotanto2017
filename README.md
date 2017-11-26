@@ -21,4 +21,7 @@
 [3](https://github.com/mluukkai/ohjelmistotuotanto2017/blob/master/laskarit/3.md)
 [4](https://github.com/mluukkai/ohjelmistotuotanto2017/blob/master/laskarit/4.md)
 [5](https://github.com/mluukkai/ohjelmistotuotanto2017/blob/master/laskarit/5.md)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 06b9115316f6cea307c75633b21a1c0d0ebbaeae
